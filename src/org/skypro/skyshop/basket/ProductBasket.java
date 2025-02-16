@@ -52,6 +52,7 @@ public class ProductBasket {
         public void clean () {
             for (int i = 0; i < basket.length; i++) {
                 basket[i] = null;
+
             }
         }
     }
