@@ -37,6 +37,7 @@ public class App {
         test.printBasket();
         System.out.println(test.basketSum());
         System.out.println(test.availability("Молоко"));
+        test.clean();
 
     }
 }
