@@ -1,4 +1,5 @@
 package org.skypro.skyshop;
+
 import org.skypro.skyshop.product.Product;
 import org.skypro.skyshop.basket.ProductBasket;
 
@@ -37,7 +38,6 @@ public class App {
         test.printBasket();
         System.out.println(test.basketSum());
         System.out.println(test.availability("Молоко"));
-        test.clean();
 
     }
 }
