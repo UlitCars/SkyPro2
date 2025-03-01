@@ -20,5 +20,6 @@ public class App {
         test.addProduct(table);
         test.addProduct(pen);
         test.printBasket();
+
     }
 }
